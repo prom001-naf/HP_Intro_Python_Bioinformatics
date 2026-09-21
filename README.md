@@ -5,13 +5,18 @@ Learning introduction to python bioinformatics at Humber Polytechnic, all my cod
 
 Write a script to calculate how much of a compound is needed to make a solution of a given
 molarity. You will need to create variables to store:
-• The molecular mass of the compound (in g/mol)
-• The volume of solution you want to create (in ml)
-• The desired concentration (molar M)
+
+The molecular mass of the compound (in g/mol)
+
+The volume of solution you want to create (in ml)
+
+The desired concentration (molar M)
+
 The different values you need for the calculation are requested interactively using input
 statements
-• The formula will be:
-o Mass (g) = Concentration (mol/L) * Volume (L) * Formula Weight (g/mol)
+
+The formula will be: Mass (g) = Concentration (mol/L) * Volume (L) * Formula Weight (g/mol)
+
 Make the script print a summary of the input variables and the calculated value by
 passing all these as separate arguments to your print function.
 
