@@ -45,9 +45,9 @@ Update the patients name to reflect the correct one.
 4. The clinic decides to merge with another healthcare provider, which means the
 patient records from both institutions must consolidate into a single list:
 
-  a. Create a new list containing the names Alejandro Ramirez, Chloe Mitchell, Sofia Vargas and Liam Sullivan
+    a. Create a new list containing the names Alejandro Ramirez, Chloe Mitchell, Sofia Vargas and Liam Sullivan
  
-  b. Combine both patient lists into one and print the new list.
+    b. Combine both patient lists into one and print the new list.
 
 6. Modify your script to ask the user for a name, and check if it exists in the list of
 patients. Output the verification as a Boolean value (True or False).
